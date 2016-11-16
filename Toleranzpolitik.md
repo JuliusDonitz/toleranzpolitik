@@ -18,7 +18,7 @@ This document specifies proper behaviour and etiquette in Discord server known a
 
 
 
-[comment]: <> (This is a comment, it will not be included)
+[//]: # (This may be the most platform independent comment)
 
 [comment]: <> (Fraktur?)
 
