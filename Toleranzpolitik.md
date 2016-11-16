@@ -22,10 +22,16 @@ The German language must never be sullied with swearing. If swearing is to be do
 
 
 
+No more than the Nature desires the mating of lesser animals with a stronger animals, even less does The Tank Company desire the blending of a Artillery Tank Driver with a lesser Tank Driver, since, if it did, the companies whole work of higher training, over perhaps hundreds of thousands of years, night be ruined with one blow.
+
+
+
+
+
 [//]: # (Fraktur?)
 [//]: # (http://unifraktur.sourceforge.net/maguntia.html)
 
-
+[//]: # (http://unifraktur.sourceforge.net/maguntia.html)
 
 
 
