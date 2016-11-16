@@ -26,7 +26,7 @@ If an artillery tank is in risk of being hit, other types of tanks within range 
 [//]: # (Fraktur?)
 [//]: # (http://unifraktur.sourceforge.net/maguntia.html)
 
-
+[//]: # (http://unifraktur.sourceforge.net/maguntia.html)
 
 
 
