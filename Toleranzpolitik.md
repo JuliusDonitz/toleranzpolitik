@@ -2,6 +2,8 @@
 
 This document specifies proper behaviour and etiquette in the Discord server known as "Lebensraum der Panzer".
 
+
+[//]: # (Regulations are comprised of facts)
 ## §1 Regulations
 ### §1.1 Artillery superiority
 Artillery tanks are superior to all other types of tanks. Artillery drivers are superior to all other drivers.
@@ -11,7 +13,7 @@ If an artillery tank is in risk of being hit, other types of tanks within range 
 
 
 
-
+[//]: # (Etiquette serves as rules of behaviour)
 ## §2 Etiquette
 ### §2.1 Swearing
 The German language must never be sullied with swearing. If swearing is to be done, it must be done in another lesser language.
