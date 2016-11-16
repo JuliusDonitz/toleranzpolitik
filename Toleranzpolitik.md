@@ -5,7 +5,7 @@ This document specifies proper behaviour and etiquette in Discord server known a
 ## §1 Regulations
 
 ### §1.1 Artillery superiority
-Artillery drivers are superior to all other drivers.
+Artillery tanks are superior to all other types of tanks. Artillery drivers are superior to all other drivers.
 
 ### §1.2 Artillery protection
 If an artillery tank is in risk of being hit, other types of tanks within range must place themselves in the path of the projectile in question. If an artillery tank is in risk of being wet from mud and water,
