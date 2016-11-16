@@ -18,8 +18,5 @@ This document specifies proper behaviour and etiquette in Discord server known a
 
 
 
-[//]: # (This may be the most platform independent comment)
-
-[comment]: <> (Fraktur?)
-
-[comment]: <> (http://unifraktur.sourceforge.net/maguntia.html.))
+[//]: # (Fraktur?)
+[//]: # (http://unifraktur.sourceforge.net/maguntia.html)
