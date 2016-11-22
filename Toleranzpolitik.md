@@ -33,9 +33,15 @@ The German language must never be sullied with swearing. If swearing is to be do
 ### §3.1 Protecting the artillery tanks
 A tank company should always commit a tank to protecting the artillery tanks,
 intercepting light tanks. 
+
+[//]: # (Best way to add sub-paragrah?)
 ### §3.2 Position
-
-
+  *  §3.2.1 
+     Do NOT stay behind friendly lines when there is no protection.
+  *  §3.2.2
+     Do NOT stay behind friendly lines when there is no protection.
+  *  §3.2.3
+     Do NOT stay behind friendly lines when there is no protection.
 
 
 
