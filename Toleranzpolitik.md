@@ -17,9 +17,9 @@ This document specifies proper behaviour and etiquette in the Discord server kno
 Artillery tanks are superior to all other types of tanks. Artillery drivers are superior to all other drivers.
 ### §1.2 Artillery protection
 If an artillery tank is in risk of being hit, other types of tanks within range must place themselves in the path of the projectile in question. If an artillery tank is in risk of being wet from mud and water, a non-artillery tank must clear a path, or create a bridge with its chassi, and so forth. 
-Nothing is as pure as a artillery tank and its crew, they must be kept clean.
+Nothing is as pure as a artillery tank and its crew, like the firstfallen virgin snows, they must be kept clean.
 ### §1.2 Friendly fire
-A non artillery tank driver hit by friendly artillery fire, should apologize for blocking the shells.
+A non artillery tank hit by friendly artillery fire, should apologize for blocking the shells.
 Artillery tank drivers do not make misstakes.
 
 [//]: # (Etiquette serves as rules of behaviour)
